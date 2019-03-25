@@ -6,16 +6,17 @@
 - Used cross validation to find average training and testing score.
 ## Regression models: 
 
--KNN repressor
--linear regression
+- KNN repressor
+
+- linear regression
 
 - Ridge
 
--Lasso
+ - Lasso
 
 - polynomial regression
 
--SVM both simple and with kernels.
+- SVM both simple and with kernels.
 
 ### Best regressor model for this dataset and train your model on the entire dataset using the best parameters and predict buzz for the test_set.
 
@@ -37,4 +38,4 @@ Decided about a good evaluation strategy and justify your choice.
 
 -Decision Tree.
 
-- Which model gives the best results?
+## Which model gives the best results?
