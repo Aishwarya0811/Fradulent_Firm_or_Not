@@ -3,6 +3,7 @@
 ## Preprocess data:
 
 - Explore data, check for missing data and apply data scaling. Justify the type of scaling used.
+- Treating outliers was a big task
 
 ## Regression Task:
 - Applied all the regression models. If your model has a scaling parameter(s) use Grid Search to find the best scaling parameter. Use plots and graphs to help you get a better glimpse of the results.
