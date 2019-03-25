@@ -34,7 +34,7 @@ Decided about a good evaluation strategy and justify your choice.
 
 - Logistic Regression
 
-- Linear Supprt Vector Machine
+- Linear Support Vector Machine
 
 - Kerenilzed 
 
