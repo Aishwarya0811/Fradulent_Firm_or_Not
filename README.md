@@ -26,16 +26,16 @@ Decided about a good evaluation strategy and justify your choice.
 
 ## Find best parameters for following classification models:
 
--KNN classifcation
+- KNN classifcation
 
--Logistic Regression
+- Logistic Regression
 
--Linear Supprt Vector Machine
+- Linear Supprt Vector Machine
 
--Kerenilzed 
+- Kerenilzed 
 
--Support Vector Machine
+- Support Vector Machine
 
--Decision Tree.
+- Decision Tree.
 
 ## Which model gives the best results?
